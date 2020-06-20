@@ -8,7 +8,7 @@ public class BooleanTest {
 		boolean isMarried =false;
 		System.out.println(isMarried);
 		
-		
+	
 		//var i = 10;//java10부터가능
 		//System.out.println(i);
 	}

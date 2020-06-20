@@ -15,7 +15,7 @@ public class IntagerTest {
 		int iVal = 1234567890;//10자리까지 가능
 		System.out.println(iVal);
 		
-		long lVal = 1234567890000000000l;
+		long lVal = 1234567890000000000l;//19자리까지가능 11부터는 L을 붙여야하는 룰이있음
 		System.out.println(lVal);//숫자자체를 4바이트로 둠 자바는 기본적으로 숫자를 정수형에 넣음
 		
 		long OVal = 10000000000l;
