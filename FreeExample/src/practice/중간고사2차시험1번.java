@@ -2,7 +2,7 @@ package practice;
 
 import java.util.Scanner;
 
-public class 홈련타자안타 {
+public class 중간고사2차시험1번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

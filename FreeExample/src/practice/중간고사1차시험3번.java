@@ -1,7 +1,7 @@
 package practice;
 import java.util.Scanner;
 
-public class FirstExam {
+public class 중간고사1차시험3번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package practice;
 
 import java.util.*;
 
-public class 오목판 {
+public class 중간고사2차시험2번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
